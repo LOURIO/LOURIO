@@ -5,7 +5,7 @@
 💻 I work on mobile apps, webscrapping, a little bit on image processing, etc... 
 I also work on discord bots (utilities, games)
 
-So I use flutter (dart), python, SQL (bases) and I begin with javascript ;)
+So I use flutter (dart), python, SQL (bases) and I begin with javascript and web dev ;)
 
 📱 One of my last project : 
 https://play.google.com/store/apps/details?id=com.LOURIO.LoginBank
