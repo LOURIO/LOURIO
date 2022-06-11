@@ -7,7 +7,7 @@ I also work on discord bots (utilities, games)
 
 So I use flutter (dart), python, SQL (bases) and I begin with javascript and web dev ;)
 
-📱 One of my last project : 
+📱 One of my last projects : 
 https://play.google.com/store/apps/details?id=com.LOURIO.LoginBank
 
 💡 I am looking for ideas, projects to develop new skills (for novices)
